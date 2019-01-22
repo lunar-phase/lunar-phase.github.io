@@ -1,0 +1,22 @@
+---
+---
+
+$brand-color: #499494;
+$background-color: #131a1a;
+$text-color: #e6e6e6;
+$grey-color: #aaa;
+$grey-color-light: darken($grey-color, 25%);
+$grey-color-dark: lighten($grey-color, 15%);
+
+$content-width: 1200px;
+$spacing-unit: 10px;
+
+@import '{{ site.theme }}';
+
+.logo-header {
+  height: 180px;
+  background-image: url('/assets/images/logo-banner.jpg');
+  background-size: auto 100%;
+  background-position: center;
+  background-repeat: no-repeat;
+}
