@@ -21,7 +21,7 @@ description: >- # this means to ignore newlines until "baseurl:"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "www.lunarphase.nyc" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: LunarPhaseProd
-youtube_username: channel/UCN8b0mYiA5e6gJYtqwHVhlQ
+youtube_username: LunarPhase
 
 # Build settings
 markdown: kramdown
